@@ -18,6 +18,8 @@ class GFG {
 			
 				// printing the value of the variable
 				System.out.println(i);
+                                System.out.println(i);
+                                System.out.println(i);
 			}
 		}
 		catch (Exception e) {
